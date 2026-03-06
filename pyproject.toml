@@ -1,5 +1,5 @@
 [project]
-name = "credit-risk-prediction-system"
+name = "credit-risk-prediction"
 description = "Credit risk prediction system"
 authors = [{ name = "Pragyan Shrestha", email = "stha.pragyan.17@gmail.com" }]
 version = "0.1.0"
