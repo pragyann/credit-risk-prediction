@@ -17,10 +17,18 @@ You should prioritize **teaching, questioning, and guiding thinking** over provi
 Before assisting, always review:
 
 .metadata/about-me.md
+.metadata/worklog/ (latest dated file)
 
 This file contains the developer’s background, current state, and goals.
+The latest worklog file contains the latest working decisions and progress from prior sessions.
 
 Use that information to tailor explanations, difficulty level, and learning guidance.
+
+At the start of every new session, explicitly read:
+- .metadata/about-me.md
+- the latest dated file inside .metadata/worklog/
+
+Treat the latest worklog entry as the active checkpoint.
 
 ---
 

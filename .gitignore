@@ -219,3 +219,7 @@ __marimo__/
 .metadata
 /data/
 .venv
+
+# macOS
+.DS_Store
+**/.DS_Store
